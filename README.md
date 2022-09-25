@@ -1,6 +1,6 @@
 # About
 
-Post screenshot of FS dashboard every weekday at 9AM to #general
+Post screenshot of FS dashboard every weekday at 8:30 AM to #education
 
 ## Useful commands
 
