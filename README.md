@@ -1,9 +1,10 @@
 # About
 
 Post screenshot of FS dashboard every weekday at 09:30 AM to #education
+# Architecture
 
-## Useful commands
+![architecture](architecture.svg)
 
-* `cdk deploy`      deploy this stack to your default AWS account/region
-* `cdk diff`        compare deployed stack with current state
-* `cdk synth`       emits the synthesized CloudFormation template
+# Useful commands
+
+* `aws-vault exec flatstack-warsaw-dashboard-app-admin -- npx cdk deploy`      deploy this stack
